@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @winterrdog
 - 👀 I’m interested in infosec and python/C/Assembly programming
 - 🌱 I’m currently learning penetration testing
-- 💞️ I’m looking to collaborate on any C or Python projects
+- 💞️ I’m looking forward to collaborate on any C or Python projects
 - 📫 How to reach me winterrdog@keemail.me or mayaoffsetmatrix@gmail.com
 
 <!---
