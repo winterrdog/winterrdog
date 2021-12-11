@@ -2,7 +2,7 @@
 - 👀 I’m interested in infosec and python/C/Assembly programming
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking forward to collaborate on any C or Python projects
-- 📫 How to reach me winterrdog@keemail.me or mayaoffsetmatrix@gmail.com
+- 📫 How to reach me winterrdog@keemail.me or mayaoffsetmatrix@gmail.com or winterrdog@protonmail.ch
 
 <!---
 winterrdog/winterrdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
