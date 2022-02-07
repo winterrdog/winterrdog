@@ -78,9 +78,9 @@
 
 # Calm down!💆😌
 
-To make sense out of this( if you know how get this information, u r not a skiddie 🤝 )
+To make sense out of this( if you know how get this information, then u r not a skiddie 🤝 )
 
-But if u do not, please use on of these online assemblers:
+But if u do not, please use one of these online assemblers:
 
 https://www.jdoodle.com/compile-assembler-gcc-online/
 
