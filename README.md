@@ -78,7 +78,7 @@
 
 # Calm down!💆😌
 
-To make sense out of this( if you know how get this information, then u r not a skiddie 🤝 )
+In order to make sense out of this( if you know how to get this information, then u r not a skiddie 🤝 )
 
 But if u do not, please use one of these online assemblers:
 
