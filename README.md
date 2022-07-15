@@ -58,7 +58,7 @@
 		interest_len = . - interest
 
 	earth_realm_role:
-		.ascii "[INFO] I’m doing penetration testing, reverse engineering & security development\n"
+		.ascii "[INFO] I’m doing penetration testing, malware development & reverse engineering. I'm also a blockchain developer wannabe :) \n"
 		earth_realm_role_len = . - earth_realm_role
 
 	future_prospects:
