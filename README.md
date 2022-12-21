@@ -54,15 +54,15 @@
 		intro_len = . - intro
 
 	interest:
-		.ascii "[INFO] I’m interested in infosec and python/C/C++/Assembly/Rust programming"
+		.ascii "[INFO] I’m interested in infosec and Python/C/C++/Assembly/Rust programming. But lately I've been diving into Golang."
 		interest_len = . - interest
 
 	earth_realm_role:
-		.ascii "[INFO] I’m doing penetration testing, malware development & reverse engineering. I'm also a blockchain developer wannabe :) \n"
+		.ascii "[INFO] I’m doing penetration testing, malware development & reverse engineering :) \n"
 		earth_realm_role_len = . - earth_realm_role
 
 	future_prospects:
-		.ascii "[INFO] I’m looking forward to collaborate on any C or Rust or Python projects\n"
+		.ascii "[INFO] I’m looking forward to collaborate on any C++/C or Rust or Python projects\n"
 		future_prospects_len = . - future_prospects
 
 	location:
