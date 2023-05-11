@@ -70,7 +70,7 @@
 		location_len = . - location
 
 	getting_remote_access:
-		.ascii "[CRITICAL] How to reach me winterrdog@keemail.me or mayaoffsetmatrix@gmail.com or winterrdog@protonmail.ch or https://t.me/winterrdog\n"
+		.ascii "[CRITICAL] How to reach me mayaoffsetmatrix@gmail.com or winterrdog@protonmail.ch or https://t.me/winterrdog\n"
 		getting_remote_access_len = . - getting_remote_access
 
 
