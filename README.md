@@ -54,15 +54,15 @@
 		intro_len = . - intro
 
 	interest:
-		.ascii "[INFO] I’m interested in infosec and Python/C/C++/Assembly/Rust programming. But lately I've been diving into Golang."
+		.ascii "[INFO] I’m interested in infosec and TypeScript/JavaScript/Python/C/C++/Rust/Golang programming."
 		interest_len = . - interest
 
 	earth_realm_role:
-		.ascii "[INFO] I’m doing penetration testing, malware development & reverse engineering :) \n"
+		.ascii "[INFO] I’m doing penetration testing, backend engineering, malware development & reverse engineering :) \n"
 		earth_realm_role_len = . - earth_realm_role
 
 	future_prospects:
-		.ascii "[INFO] I’m looking forward to collaborate on any C++/C or Rust or Python projects\n"
+		.ascii "[INFO] I’m looking forward to collaborate on any TypeScript, JavaScript, Golang, C/C++, Rust or Python projects\n"
 		future_prospects_len = . - future_prospects
 
 	location:
@@ -70,7 +70,7 @@
 		location_len = . - location
 
 	getting_remote_access:
-		.ascii "[CRITICAL] How to reach me mayaoffsetmatrix@gmail.com or winterrdog@protonmail.ch or https://t.me/winterrdog\n"
+		.ascii "[CRITICAL] How to reach me mayaoffsetmatrix@gmail.com or https://t.me/winterrdog\n"
 		getting_remote_access_len = . - getting_remote_access
 
 
@@ -80,12 +80,13 @@
 
 In order to make sense out of this( if you know how to get this information, then u r not a skiddie 🤝 )
 
-But if u do not, please use one of these online assemblers:
+But if you do not, please use one of these online assemblers:
 
 https://www.jdoodle.com/compile-assembler-gcc-online/
 
 https://www.onlinegdb.com/online_gcc_assembler
 
+:shipit:
 😅At least you learnt something NEW today😎!(How to make assembly code executable - though this is just for Intel/AMD)
 
 # Whatever you'll get as output is the info about me! Thanks for passing by folks😊.
