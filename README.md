@@ -39,7 +39,7 @@
 
 ### [odin-blog-api](https://github.com/winterrdog/odin-blog-api)
 
-**odin-blog-api** is a **a project I built as an exercise by The Odin Project( TOP ) to create a blogging site where users can post articles for readers to read and also let them comment** built with **MongoDB, HTTPie, Express.js, Docker, Docker-Compose, TypeScript, Node.js, Linux and Bash**. This project showcases my skills in **writing and documenting REST APIs that mutate a database, working with Docker containerization, web security, writing integrated tests and structuring backend code**. You can check out the repository [here](https://github.com/winterrdog/odin-blog-api). _I am currently looking into attaching a frontend to it for easy usage( that's my WIP lately._
+**odin-blog-api** is a **a project I built as an exercise by The Odin Project( TOP ) to create a blogging site where users can post articles for readers to read and also let them comment** built with **MongoDB, HTTPie, Express.js, Docker, Docker-Compose, TypeScript, Node.js, Linux and Bash**. This project showcases my skills in **writing and documenting REST APIs that mutate a database, working with Docker containerization, web security, writing integrated tests and structuring backend code**. You can check out the repository [here](https://github.com/winterrdog/odin-blog-api). _I am currently looking into attaching a frontend to it for easy usage( that's my WIP lately. )_
 
 -   👨‍💻 You can find more of my projects [here](https://github.com/winterrdog?tab=repositories). _In case you're interested_ :)
 
