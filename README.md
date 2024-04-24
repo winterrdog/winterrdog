@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
-- 🔭 I’m currently working on [a personal custom hash-table](https://github.com/winterrdog/custom-hash-table)
+-   🔭 I’m currently working on [a personal custom hash-table](https://github.com/winterrdog/custom-hash-table)
 
-- 🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
+-   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
 
-- 👯 I’m looking to collaborate on **C, C++, JavaScript/TypeScript or Python projects**
+-   👯 I’m looking to collaborate on **C, C++, Node.js/TypeScript or Python projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/winterrdog?tab=repositories](https://github.com/winterrdog?tab=repositories)
+-   👨‍💻 All of my projects are available [here](https://github.com/winterrdog?tab=repositories)
 
-- 💬 Ask me about **malware development, computer networking, backend engineering and computer science details**
+-   💬 Ask me about **malware development, computer networking, backend engineering and computer science details**
 
-- 📫 How to reach me **mayaoffsetmatrix@gmail.com or https://t.me/winterrdog**
+-   📫 How to reach me **mayaoffsetmatrix@gmail.com or [TG](https://t.me/winterrdog)**
 
-- ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.**
+-   ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
