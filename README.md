@@ -7,7 +7,7 @@
 
 -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
 
--   👯 I’m looking to collaborate on **C, C++, Node.js/TypeScript or Python projects**
+-   👯 I’m looking to collaborate on **C, C++, Node.js/TypeScript, Rust or Python projects**
 
 -   💬 Ask me about **malware development, computer networking, backend engineering and computer science details**
 
