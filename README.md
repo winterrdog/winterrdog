@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   🔭 I’m currently working on [a personal custom hash-table](https://github.com/winterrdog/c-hash-map)
+-   🔭 I’m currently working on [a custom C hash table or dictionary or hashmap](https://github.com/winterrdog/c-hash-map)
 
 -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
 
