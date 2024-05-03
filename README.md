@@ -9,6 +9,8 @@
 
 -   👯 I’m looking to collaborate on **C, C++, Node.js/TypeScript, Rust or Python projects**
 
+-   ✨ I'm also familiar with **Golang and x86 Assembly**    
+
 -   💬 Ask me about **malware development, computer networking, backend engineering and computer science details**
 
 -   📫 How to reach me **mayaoffsetmatrix@gmail.com or [TG](https://t.me/winterrdog)**
