@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   🔭 I’m currently working on [a simple x86 bootloader](https://github.com/winterrdog/x86-bootloader)
+-   🔭 I’m currently working on [a microblogging platform](https://github.com/winterrdog/odin-blog-api)
 
 -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
 
