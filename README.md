@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   🔭 I’m currently working on [a microblogging `nodejs` platform](https://github.com/winterrdog/odin-blog-api).
+-   🔭 I’m currently improving on [a microblogging `nodejs` platform](https://muchubatactics.github.io/odin-blog-api/).
 
 -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
 
@@ -18,6 +18,10 @@
 -   ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.**
 
 ## Featured Projects 💻
+
+### [odin-blog-api](https://muchubatactics.github.io/odin-blog-api/)
+
+**odin-blog-api** is a **a project I built as an exercise by The Odin Project( TOP ) to create a blogging site where users can post articles for readers to read and also let them comment** built with **MongoDB, HTTPie, Express.js, Docker, Docker-Compose, TypeScript, Node.js, Linux and Bash**. This project showcases my skills in **writing and documenting REST APIs that mutate a database, working with Docker containerization, web security, writing integrated tests and structuring backend code**. You can check out the repository [here](https://github.com/winterrdog/odin-blog-api). _I finished attaching a frontend to it so it's a live deployment on AWS( backend ) and Github Pages( frontend )_
 
 ### [chosen-chat-app](https://github.com/winterrdog/chosen-chat-app)
 
@@ -38,10 +42,6 @@
 ### [milli_editor text editor](https://github.com/winterrdog/milli_editor)
 
 **milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal** built with **C, `Makefile`, Unix standard API**. This project showcases my skills in **writing low-level and efficient programs in C, handling memory management manually and deep understanding of TTY interfaces at a lower-level**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
-
-### [odin-blog-api](https://github.com/winterrdog/odin-blog-api)
-
-**odin-blog-api** is a **a project I built as an exercise by The Odin Project( TOP ) to create a blogging site where users can post articles for readers to read and also let them comment** built with **MongoDB, HTTPie, Express.js, Docker, Docker-Compose, TypeScript, Node.js, Linux and Bash**. This project showcases my skills in **writing and documenting REST APIs that mutate a database, working with Docker containerization, web security, writing integrated tests and structuring backend code**. You can check out the repository [here](https://github.com/winterrdog/odin-blog-api). _I am currently looking into attaching a frontend to it for easy usage( that's my WIP lately. )_
 
 -   👨‍💻 You can find more of my projects [here](https://github.com/winterrdog?tab=repositories). _In case you're interested_ :)
 
