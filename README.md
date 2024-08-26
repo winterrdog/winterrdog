@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   🔭 I’m currently working on [a microblogging `nodejs` platform](https://github.com/winterrdog/odin-blog-api) and [a minimal SQL database in `C`](https://github.com/winterrdog/sqlyte-db)
+-   🔭 I’m currently working on [a microblogging `nodejs` platform](https://github.com/winterrdog/odin-blog-api).
 
 -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware**
 
