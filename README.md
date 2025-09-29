@@ -7,7 +7,7 @@
 
 <!-- -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware** -->
 
--   👯 Over the years, I have written a sizable chunk of **C/C++, Node.js and Golang**.
+-   👯 Over the years, I have written a sizable chunk in **C/C++, Node.js and Golang**.
 
 -   ✨ I'm also familiar with **Rust, Python and x86 Assembly**    
 
