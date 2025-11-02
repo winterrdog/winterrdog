@@ -11,7 +11,7 @@
 
 -   ✨ I'm also familiar with **Rust, Python and x86 Assembly**    
 
--   💬 Ask me about **malware development, cryptography, computer networking, backend engineering and computer science internals**. I also _occasionally_ check in with Bitcoin development.
+-   💬 Ask me about **malware development, cryptography, computer networking, backend engineering, cloud computing and computer science internals**. I also _occasionally_ check in with Bitcoin development.
 
 -   📫 How to reach me **mayaoffsetmatrix@gmail.com or [TG](https://t.me/winterrdog)**
 
