@@ -13,7 +13,7 @@
 
 -   💬 Ask me about **cryptography, computer networking, backend engineering, cloud computing and computer science internals**. I am also involved in Bitcoin-related projects, under BOSS programs which also include working on Bitcoin Core.
 
--   📫 How to reach me **mayaoffsetmatrix@gmail.com or [TG](https://t.me/winterrdog)**
+-   📫 How to reach me **mayaoffsetmatrix@gmail.com or winterrdog@protonmail.ch or [TG](https://t.me/winterrdog)**
 
 <!-- -   ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.** -->
 
