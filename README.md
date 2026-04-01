@@ -29,11 +29,11 @@
 
 ### [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode)
 
-**FUD-UUID-Shellcode** is **another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery** built with **C++, Windows C/C++ API, Python, UUID and `Makefile` build system**. This project demonstrates my ability to **create an almost elusive shellcode loader with C++ leveraging the Windows C/C++ API**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
+**FUD-UUID-Shellcode** is **another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery** built with **C++, Windows C/C++ API, Python, UUID and `Makefile` build system**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
 
 ### [cloneit](https://github.com/winterrdog/cloneit)
 
-**cloneit** is a **command-line tool to download specific GitHub directories or files** built with **Rust, GitHub REST API, Bash and Cargo**. This project showcases my skills in **working on open-source projects with others, writing programs in Rust and handling third-party web API calls asynchronously**. You can check out the repository [here](https://github.com/winterrdog/cloneit).
+**cloneit** is a **command-line tool to download specific GitHub directories or files** built with **Rust, GitHub REST API, Bash and Cargo**. You can check out the repository [here](https://github.com/winterrdog/cloneit).
 
 <!-- ### [high-ride-api](https://github.com/winterrdog/high-ride-api)
 
@@ -41,7 +41,7 @@
 
 ### [milli_editor text editor](https://github.com/winterrdog/milli_editor)
 
-**milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal** built with **C, `Makefile`, Unix standard API**. This project showcases my skills in **writing low-level and efficient programs in C, handling memory management manually and deep understanding of TTY interfaces at a lower-level**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
+**milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal** built with **C, `Makefile`, Unix standard API**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
 
 -   👨‍💻 You can find more of my projects [here](https://github.com/winterrdog?tab=repositories). _In case you're interested_ :)
 
