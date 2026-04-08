@@ -11,7 +11,7 @@
 
 - I try to regularly contribute to Bitcoin Core to help build financial systems that are open and accessible to everyone & anyone (I lend my time for free).
 
--   📫 How to reach me **winterrdog@protonmail.ch or [Telegram](https://t.me/winterrdog)**
+-   📫 How to reach me **winterrdog@protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**
 
 <!-- -   ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.** -->
 
