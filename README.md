@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
-<!-- -   🔭 I’m currently improving on [a microblogging `nodejs` platform](https://muchubatactics.github.io/odin-blog-api/). -->
-
-<!-- -   🌱 I’m currently learning **creating web backends, databases, kernels, bootloaders and more malware** -->
-
 -   👯 Over the years, I have written a sizable chunk of code in **C/C++, JavaScript and Golang**.
 
--   ✨ I'm also familiar with **Rust, Python and x86 Assembly**    
+-   ✨ I'm also familiar with **Rust, Python** and **x86 Assembly**    
 
--   💬 Ask me about **cryptography, computer networking, backend engineering, cloud computing and computer science internals**. I am also involved in Bitcoin-related projects, under BOSS programs which also include working on Bitcoin Core.
+-   💬 Ask me about **cryptography, computer networking, backend engineering, cloud computing and computer science internals**. I am also involved in contributing to Bitcoin-related projects (_especially Bitcoin Core_), under BOSS programs. 
+
+- I try to regularly contribute to Bitcoin Core to help build financial systems that are open and accessible to everyone & anyone (I lend my time for free).
 
 -   📫 How to reach me **winterrdog@protonmail.ch or [Telegram](https://t.me/winterrdog)**
 
@@ -29,29 +27,17 @@
 
 ### [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode)
 
-**FUD-UUID-Shellcode** is **another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery** built with **C++, Windows C/C++ API, Python, UUID and `Makefile` build system**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
+**FUD-UUID-Shellcode** is **another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
 
 ### [cloneit](https://github.com/winterrdog/cloneit)
 
-**cloneit** is a **command-line tool to download specific GitHub directories or files** built with **Rust, GitHub REST API, Bash and Cargo**. You can check out the repository [here](https://github.com/winterrdog/cloneit).
-
-<!-- ### [high-ride-api](https://github.com/winterrdog/high-ride-api)
-
-**high-ride-api** is a **simplified ride-sharing backend API developed in NestJS, which includes features like user registration, ride requests, and driver availability management. Something like the Uber trip system** built with **TypeScript, Git, HTTPie, MongoDB, Nest.js, Jest and Node.js**. This project showcases my skills in **buidling REST APIs in Node.js using TypeScript and writing robust documentation**. You can check out the repository [here](https://github.com/winterrdog/high-ride-api). -->
+**cloneit** is a **command-line tool to download specific GitHub directories or files**. You can check out the repository [here](https://github.com/winterrdog/cloneit).
 
 ### [milli_editor text editor](https://github.com/winterrdog/milli_editor)
 
-**milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal** built with **C, `Makefile`, Unix standard API**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
+**milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
 
 -   👨‍💻 You can find more of my projects [here](https://github.com/winterrdog?tab=repositories). _In case you're interested_ :)
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/16357751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16357751" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/winterrdog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="winterrdog" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winterrdog&show_icons=true&locale=en" alt="winterrdog" /></p>
+<!-- these stats were taken down by the project owner -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winterrdog&show_icons=true&locale=en" alt="winterrdog" /></p> -->
