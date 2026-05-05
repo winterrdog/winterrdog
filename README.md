@@ -1,13 +1,13 @@
 <h1 align="center">I'm winterrdog</h1>
-<h3 align="center">A software engineer specialized in creating web backends & malware, working on Bitcoin stuff and anything low-level with experience in cybersecurity & computer science</h3>
+<h3 align="center">A software engineer specialised in creating web backends & security research, working on Bitcoin stuff and anything low-level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   👯 Over the years, I have written a sizable chunk of code in **C/C++ & JavaScript**.
+-   👯 Over the years, I have written a sizable chunk of code in **C/C++ and JavaScript**.
 
 -   ✨ I'm also familiar with **Golang, Rust, Python** and **x86 Assembly**    
 
--   💬 Ask me about **cryptography, browser engines, computer networking, backend engineering, cloud computing and computer science internals**. I am also involved in contributing to Bitcoin-related projects (_especially Bitcoin Core_), under BOSS programs. 
+-   💬 Ask me about **cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects (_especially Bitcoin Core_), under BOSS programs. 
 
 - I try to regularly contribute to Bitcoin Core to help build financial systems that are open and accessible to everyone & anyone (I lend my time for free).
 
