@@ -1,15 +1,11 @@
 <h1 align="center">I'm winterrdog</h1>
-<h3 align="center">A software engineer specialised in creating security research, working on Bitcoin stuff and anything low-level.</h3>
+<h3 align="center">A software engineer specialised in security research, working on Bitcoin stuff and anything low-level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   👯 Over the years, I have written a sizable chunk of code in **C/C++ and JavaScript**.
+-   👯 Over the years, I have written a sizable chunk of code in **C/C++ and JavaScript**. Also familiar with **Golang, Rust, Python** and **x86 Assembly**    
 
--   ✨ I'm also familiar with **Golang, Rust, Python** and **x86 Assembly**    
-
--   💬 Ask me about **cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects (_especially Bitcoin Core_), under BOSS programs. 
-
-- I try to regularly contribute to Bitcoin Core to help build financial systems that are open and accessible to everyone & anyone (I lend my time for free).
+-   💬 Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects _especially Bitcoin Core & BlueWallet_, with hope to build financial systems that can be open and accessible to everyone (I lend my time for free).
 
 -   📫 How to reach me **winterrdog@protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**
 
@@ -37,7 +33,8 @@
 
 **milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
 
--   👨‍💻 You can find more of my projects [here](https://github.com/winterrdog?tab=repositories). _In case you're interested_ :)
+> [!TIP]
+>   More of my projects? They are [here](https://github.com/winterrdog?tab=repositories).
 
 <!-- these stats were taken down by the project owner -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winterrdog&show_icons=true&locale=en" alt="winterrdog" /></p> -->
