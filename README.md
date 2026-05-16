@@ -1,4 +1,4 @@
-<h1 align="center">I'm winterrdog</h1>
+<h1 align="center">bio</h1>
 <h3 align="center">A software engineer specialised in security research, working on Bitcoin stuff and anything low-level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
@@ -23,7 +23,7 @@
 
 ### [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode)
 
-**FUD-UUID-Shellcode** is **another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
+**FUD-UUID-Shellcode** is **another shellcode injection technique that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
 
 ### [cloneit](https://github.com/winterrdog/cloneit)
 
@@ -31,7 +31,7 @@
 
 ### [milli_editor text editor](https://github.com/winterrdog/milli_editor)
 
-**milli_editor** is a **simple Unix vim-like text editor written in C that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
+**milli_editor** is a **simple Unix vim-like text editor that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
 
 > [!TIP]
 >   More of my projects? They are [here](https://github.com/winterrdog?tab=repositories).
