@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   👯 Over the years, I have written a sizable chunk of code in **C/C++ and JavaScript**. Also familiar with **Golang, Rust, Python** and **x86 Assembly**    
+-   👯 Over the years, I have written a sizable chunk of code in **C++, C and JavaScript**. Also familiar with **Golang, Rust, Python** and **x86 Assembly**.   
 
 -   💬 Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects _especially Bitcoin Core & BlueWallet_, with hope to build financial systems that can be open and accessible to everyone (I lend my time for free).
 
