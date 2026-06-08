@@ -21,17 +21,17 @@
 
 **chosen-chat-app** is a **a personal portfolio project geared to learning websockets and real-time chats or updates** built with **Nest.js and websockets on the backend with raw HTML/CSS/JS on the frontend**. This project showcases my skills in **websockets, MongoDB, building realtime chats and AWS**. You can check out the repository [here](https://github.com/winterrdog/chosen-chat-app). -->
 
-### [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode)
+- [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode)
 
-**FUD-UUID-Shellcode** is **another shellcode injection technique that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode).
+<!-- **FUD-UUID-Shellcode** is **another shellcode injection technique that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode). -->
 
-### [cloneit](https://github.com/winterrdog/cloneit)
+- [cloneit](https://github.com/winterrdog/cloneit)
 
-**cloneit** is a **command-line tool to download specific GitHub directories or files**. You can check out the repository [here](https://github.com/winterrdog/cloneit).
+<!-- **cloneit** is a **command-line tool to download specific GitHub directories or files**. You can check out the repository [here](https://github.com/winterrdog/cloneit). -->
 
-### [milli_editor text editor](https://github.com/winterrdog/milli_editor)
+- [milli_editor text editor](https://github.com/winterrdog/milli_editor)
 
-**milli_editor** is a **simple Unix vim-like text editor that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor).
+<!-- **milli_editor** is a **simple Unix vim-like text editor that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor). -->
 
 > [!TIP]
 >   More of my projects? They are [here](https://github.com/winterrdog?tab=repositories).
