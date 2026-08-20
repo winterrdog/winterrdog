@@ -5,7 +5,7 @@
 
 -   👯 Over the years, I have written a sizable chunk of code in **C++, C and JavaScript**. Also familiar with **Golang, Rust, Python** and **x86 Assembly**.   
 
--   💬 Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects _especially Bitcoin Core & BlueWallet_, with hope to build financial systems that can be open and accessible to everyone (I lend my time for free).
+-   💬 Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects _especially Bitcoin Core & BlueWallet_, with hope to build financial systems that can be open and accessible to everyone (I lend my time for free). I also have an interest in *BSDs (i think they're well designed OSes)
 
 -   📫 How to reach me **winterrdog@protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**
 
