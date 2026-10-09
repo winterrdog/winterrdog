@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
 
--   👯 Over the years, I have written a sizable chunk of code in **C++, C and JavaScript**. Also familiar with **Golang, Rust, Python** and **x86 Assembly**.   
+-   Primarily, I write **C++, C and JavaScript** code (in that order). Also _familiar_ with **Golang, Rust, Python** and **x86 Assembly**.   
 
--   💬 Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects _especially Bitcoin Core & BlueWallet_, with hope to build financial systems that can be open and accessible to everyone. Oh! also an interest in learning about *BSDs (i think they're well designed OSes)
+-   Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects especially Bitcoin Core, BlueWallet and more. Oh! also an interest in learning about *BSDs (i think they're well designed OSes) and graphics & audio programming
 
--   📫 How to reach me **winterrdog@protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**
+-   📫 How to reach me **winterrdog [at] protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**
 
 <!-- -   ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.** -->
 
-## some of my 'little' work.
+<!-- ## some of my 'little' work. -->
 
 <!-- ### [odin-blog-api](https://muchubatactics.github.io/odin-blog-api/)
 
@@ -21,20 +21,20 @@
 
 **chosen-chat-app** is a **a personal portfolio project geared to learning websockets and real-time chats or updates** built with **Nest.js and websockets on the backend with raw HTML/CSS/JS on the frontend**. This project showcases my skills in **websockets, MongoDB, building realtime chats and AWS**. You can check out the repository [here](https://github.com/winterrdog/chosen-chat-app). -->
 
-- [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode)
+<!-- - [FUD-UUID-Shellcode](https://github.com/winterrdog/FUD-UUID-Shellcode) -->
 
 <!-- **FUD-UUID-Shellcode** is **another shellcode injection technique that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings trickery**. You can check out the repository [here](https://github.com/winterrdog/FUD-UUID-Shellcode). -->
 
-- [cloneit](https://github.com/winterrdog/cloneit)
+<!-- - [cloneit](https://github.com/winterrdog/cloneit) -->
 
 <!-- **cloneit** is a **command-line tool to download specific GitHub directories or files**. You can check out the repository [here](https://github.com/winterrdog/cloneit). -->
 
-- [milli_editor text editor](https://github.com/winterrdog/milli_editor)
+<!-- - [milli_editor text editor](https://github.com/winterrdog/milli_editor) -->
 
 <!-- **milli_editor** is a **simple Unix vim-like text editor that runs at the terminal**. You can check out the repository [here](https://github.com/winterrdog/milli_editor). -->
 
-> [!TIP]
->   More of my projects? They are [here](https://github.com/winterrdog?tab=repositories).
+<!-- > [!TIP] -->
+<!-- >   More of my projects? They are [here](https://github.com/winterrdog?tab=repositories). -->
 
 <!-- these stats were taken down by the project owner -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winterrdog&show_icons=true&locale=en" alt="winterrdog" /></p> -->
