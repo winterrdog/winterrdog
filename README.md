@@ -7,7 +7,7 @@
 
 -   Interests: **Applied cryptography, computer security, browser engines, computer networking and backend engineering**. I am also involved in contributing to Bitcoin-related projects especially Bitcoin Core, BlueWallet and more. Oh! also an interest in learning about *BSDs (i think they're well designed OSes) and graphics & audio programming
 
--   📫 How to reach me **winterrdog [at] protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**. a [fact](https://youtu.be/kHCEMzsulN4?t=8)
+-   📫 How to reach me **winterrdog [at] protonmail.ch or [Telegram](https://t.me/winterrdog) or my Discord tag is `winterrdogg`**. [hehe!](https://youtu.be/kHCEMzsulN4?t=8)
 
 <!-- -   ⚡ Fun fact **don't let your mind control you, make it aware of who's in charge.** -->
 
