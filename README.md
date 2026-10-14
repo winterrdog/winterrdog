@@ -1,7 +1,7 @@
 <h1 align="center">bio</h1>
 <h3 align="center">A software engineer specialised in security research, working on Bitcoin stuff and anything low-level.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrdog&label=Profile%20views&color=0e75b6&style=flat" alt="winterrdog" /> </p> -->
 
 -   Primarily, I write **C++, C and JavaScript** code (in that order). Also _familiar_ with **Golang, Rust, Python** and **x86 Assembly**.   
 
